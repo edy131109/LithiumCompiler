@@ -1,3 +1,7 @@
 build
 .vscode
 .VSCodeCounter
+Lithium/out
+Lithium/out.asm
+Lithium/out.o
+Lithium/out.obj
