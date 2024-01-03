@@ -1,4 +1,4 @@
-This is a compiler for my language called LithiumScript
+This is a compiler for my language called Lithium
 
 To compile the test example script found in ../test.l you can run the command
 g++ -std=c++2a src/main.cpp -o build/L; ./build/L ../test.l linux; ./out; echo $?
