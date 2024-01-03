@@ -6,7 +6,7 @@
 - Easy to learn language for both experienced and new programmers.
 - Can be compiled for multiple platforms.
 
-  These are all features that Litihum already has or will have once it's fully completed.
-  For now it's just a simple language with no real function but it's not very far away from completion.
+ These are all features that Litihum already has or will have once it's fully completed.
+ For now it's just a simple language with no real function but it's not very far away from completion.
 
   
