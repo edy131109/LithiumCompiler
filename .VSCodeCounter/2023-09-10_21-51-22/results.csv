@@ -1,0 +1,9 @@
+"filename", "language", "x86 and x86_64 Assembly", "C++", "Markdown", "comment", "blank", "total"
+"c:\Users\lazar\Desktop\Compiler cpp\LithiumScript\out.asm", "x86 and x86_64 Assembly", 19, 0, 0, 0, 1, 20
+"c:\Users\lazar\Desktop\Compiler cpp\LithiumScript\src\arena.hpp", "C++", 0, 27, 0, 0, 7, 34
+"c:\Users\lazar\Desktop\Compiler cpp\LithiumScript\src\generation.hpp", "C++", 0, 96, 0, 0, 17, 113
+"c:\Users\lazar\Desktop\Compiler cpp\LithiumScript\src\grammar.md", "Markdown", 0, 0, 30, 0, 0, 30
+"c:\Users\lazar\Desktop\Compiler cpp\LithiumScript\src\main.cpp", "C++", 0, 35, 0, 0, 10, 45
+"c:\Users\lazar\Desktop\Compiler cpp\LithiumScript\src\parser.hpp", "C++", 0, 181, 0, 0, 25, 206
+"c:\Users\lazar\Desktop\Compiler cpp\LithiumScript\src\tokenization.hpp", "C++", 0, 112, 0, 0, 10, 122
+"Total", "-", 19, 451, 30, 0, 70, 570

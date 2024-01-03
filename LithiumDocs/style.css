@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(20, 20, 20);
+    font-family: "Roboto", "Maitree"
+}
+
+.center {
+    margin: auto;
+    width: 85%;
+    border: 3px solid rgb(43, 44, 46);
+    background-color: rgb(56, 59, 61);
+    box-shadow: 0 0 50px rgb(85, 218, 114);
+    border-radius: 10px;
+    padding: 30px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-top: 75px;
+}
+
+h1 {
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 45px;
+}
+
+p {
+    color: rgb(221, 221, 221);
+    font-size: 1.25em;
+}
