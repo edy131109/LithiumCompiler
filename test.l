@@ -1,7 +1,6 @@
 let y = (10 - 2 * 3) / 2;
 let x = 7; // test
 // test
-let x = 5;
 if (1) {
     x = 1;
 }
