@@ -1,7 +1,7 @@
 This is a compiler for my language called LithiumScript
 
 To compile the test example script found in ../test.l you can run the command
-g++ -std=c++2a src/main.cpp -o build/LS; ./build/LS.exe ../test.l win; ./out.exe; echo $LastExitCode
-in the windows powershell
+g++ -std=c++2a src/main.cpp -o build/L; ./build/L ../test.l linux; ./out; echo $?
+in the linux terminal
 
-The number shown in the console is the output given by the program.
+The number shown in the console is the output given by the program (exit code).
